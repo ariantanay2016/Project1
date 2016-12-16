@@ -1,0 +1,124 @@
+body{
+	width: 100%;
+	margin: auto;
+
+}
+
+header{
+	width: 100%;
+	height: 100px;
+	display: block;
+	position: fixed;
+	font-family: Raleway, sans-serif;
+	font-size: 15px;
+	box-shadow: 5px 5px 5px #888888;
+	overflow: hidden;
+	background-color: 	#8A2BE1;
+	opacity: 0.9;
+	
+}
+.primary{
+	width: 30%;
+	float: left;
+	height: 70px;
+}
+
+
+.secondary{
+	width: 40%;
+	margin-top: 20px;
+	float: left;
+}
+.tertiary img{
+	width: 30%;
+	margin:auto;
+	height: 90px;
+	float: right;
+}
+.secondary ul li a{
+	color: white;
+	
+	
+}
+.secondary ul li a:hover{
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.wrap
+{
+	float: left;
+	margin: 130px 0px;
+	width: 100%;
+	height: auto;
+	
+}
+
+ ul li
+{
+	display: inline;
+
+}
+
+.main ul li a{
+	font-size: 15px;
+	color: white;
+	text-decoration: none;
+}
+
+.main ul li a:hover{
+	font-weight: bold;
+	text-decoration: underline;
+}
+.main{
+	background-color: #00008B;
+
+}
+
+.content_sec{
+	height: auto;
+
+}
+.content_sec section{
+	margin-top: 20px;
+	box-shadow: 2px 2px 1px grey;
+	height: 300px;
+
+}
+
+.hero{
+	background: #7FFFD4;
+	width: 100%x;
+	height: auto;
+	margin-top: 15px;
+}
+
+.hero h1{
+	color: #00008B;
+	text-align: center;
+}
+
+.content1_sec section{
+	margin-top: 20px;
+	box-shadow: 5px 0px 5px grey;
+	height: 350px;
+
+}
+
+
+.address .centers .copyright{
+color: white;
+}
+footer{
+	width: auto;
+	color: white;
+    border: 0px solid black;
+	clear: both;
+	background-color: 	black;
+
+	
+}
+.wrap1{
+	clear: both;
+	background: black;
+}
